@@ -88,3 +88,42 @@ img {
     border: 1px #3882f6;
     border-radius: 10px;
 }
+
+h2 {
+    font-size: 36px;
+    font-weight: extra-bolder;
+    color: #1F2937;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.row-of-blue-divs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 100px;
+    align-items: center;
+
+}
+
+.box-blue {
+    border: 4px solid #3882f6;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.second-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.p-second {
+    font-size: 18px;
+    text-align: center;
+
+}
