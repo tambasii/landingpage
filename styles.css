@@ -66,10 +66,13 @@ h1 {
     margin-left: 150px;
     justify-content: center;
     
+    
 }
 
 img {
     margin-bottom: 90px;
+    margin-top: 90px;
+    
 }
 
 .p-first {
@@ -84,8 +87,4 @@ img {
     height: 40px;
     border: 1px #3882f6;
     border-radius: 10px;
-
-
-
-
 }
