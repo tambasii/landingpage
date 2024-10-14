@@ -1,2 +1,2 @@
 # landingpage
-For this project I’ll be creating an entire web page from a design that will be provided.
+For this project, I’ll create an entire web page from a design provided by The Odin Project.
