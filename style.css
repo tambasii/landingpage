@@ -9,10 +9,6 @@
   box-sizing: border-box;
 }
 
-:root {
-  --main-font: "Roboto", serif;
-}
-
 body {
   background: #1f2937;
 }
@@ -24,8 +20,27 @@ body {
 }
 
 .logo {
-  font-family: var(--main-font);
+  font-family: "Roboto", serif;
   font-size: 24px;
   color: #f9faf8;
-  margin-left: 60px;
+  margin: 40px;
+}
+
+.nav-items {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-items li {
+  margin: 0 15px; /* Adds space between the items*/
+}
+
+.nav-items a {
+  text-decoration: none;
+
+  color: #e5e7eb;
+  font-size: 18px;
+  font-family: "Roboto", serif;
 }
