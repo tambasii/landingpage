@@ -15,21 +15,20 @@ body {
 
 /* Start of nav-section */
 .nav-section {
-  height: 10vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 15vh;
 }
 
 .logo {
   width: 300px;
   height: auto;
-  font-size: 24px;
 }
 
 .nav-items {
-  display: flex;
   list-style-type: none;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   margin-right: 100px;
@@ -52,12 +51,13 @@ body {
 
 .header {
   margin-top: 100px;
-  height: 40vh;
+  height: 45vh;
   display: flex;
   width: 100vw;
   justify-content: center;
   align-items: center;
   gap: 200px;
+  margin-bottom: 100px;
 }
 .text-section {
   display: flex;
@@ -89,8 +89,25 @@ button {
 }
 
 .image-section img {
-  height: 400px;
-  width: 650px;
+  width: 700px;
+  height: auto;
 }
 
 /* Header section ends */
+
+/* Project section starts */
+.portfolio {
+  background: #e5e7eb;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  height: 45vh;
+}
+
+.portfolio h3 {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  text-align: center;
+  margin: 40px 0;
+}
