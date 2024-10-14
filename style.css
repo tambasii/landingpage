@@ -12,3 +12,7 @@
 :root {
   --main-font: "Roboto", serif;
 }
+
+body {
+  background: #1f2937;
+}
