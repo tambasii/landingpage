@@ -80,12 +80,17 @@ body {
 
 button {
   background-color: #3882f6;
-  width: 100px;
+  width: 120px;
   height: 50px;
   border-style: none;
+  color: #f9faf8;
+  font-family: "Roboto", serif;
+  font-size: 16px;
 }
 
 .image-section img {
   height: 400px;
   width: 650px;
 }
+
+/* Header section ends */
