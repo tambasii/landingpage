@@ -11,6 +11,7 @@
 
 body {
   background: #1f2937;
+  overflow-x: hidden;
 }
 
 /* Start of nav-section */
