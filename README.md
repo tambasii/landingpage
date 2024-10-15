@@ -1,4 +1,5 @@
-#The Odin Project landing page.
+#The Odin Project landing page
+
 For this project, I’ll create an entire web page from a design provided by The Odin Project.
 
 Images used in this project
